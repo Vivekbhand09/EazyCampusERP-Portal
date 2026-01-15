@@ -96,115 +96,121 @@ EazyCampusERP Portal
 └─ pom.xml
 ```
 
-
 ---
+
 ## 📸 Screenshots – EazyCampusERP Portal
 
 ### 🏠 Homepage – Hero Section
-Landing page hero section introducing the EazyCampusERP Portal with navigation and call-to-action.
 ![Homepage Hero Section](utils/sch1.png)
+Landing page hero section introducing the EazyCampusERP Portal with navigation and call-to-action.
 
 ---
 
 ### ⭐ Homepage – Best Features
-Highlights the key features and benefits offered by the ERP portal.
 ![Homepage Best Features](utils/sch2.png)
+Highlights the key features and benefits offered by the ERP portal.
 
 ---
 
 ### 🎯 Homepage – Why Choose Us
-Explains why institutions should choose EazyCampusERP for college management.
 ![Homepage Why Choose Us](utils/sch3.png)
+Explains why institutions should choose EazyCampusERP for college management.
 
 ---
 
 ### 📊 Homepage – Our Statistics
-Displays important statistics such as students, courses, and classes.
 ![Homepage Statistics](utils/sch4.png)
+Displays important statistics such as students, courses, and classes.
 
 ---
 
 ### 🔻 Homepage – Footer
-Footer section containing contact details, quick links, and social media references.
 ![Homepage Footer](utils/sch5.png)
+Footer section containing contact details, quick links, and social media references.
 
 ---
 
 ### 📚 Courses Page
-Shows all available courses offered by the college with details.
 ![Courses Page](utils/sch6.png)
+Shows all available courses offered by the college with complete course details.
 
 ---
 
 ### 📩 Contact Us Page
-Allows users to submit inquiries and messages to the admin.
 ![Contact Us Page](utils/sch7.png)
+Allows users to submit inquiries and messages directly to the admin.
 
 ---
 
 ### 🔐 Login Page
-Secure login page for students and administrators.
 ![Login Page](utils/sch8.png)
+Secure authentication page for students and administrators.
 
 ---
 
 ### 📝 Registration Page
-Student registration page for new users to create an account.
 ![Register Page](utils/sch9.png)
+Student registration page for new users to create an account.
 
 ---
 
 ### 🎓 Student Dashboard
-Student dashboard showing overview of enrolled classes and courses.
 ![Student Dashboard](utils/sch10.png)
+Student dashboard showing an overview of enrolled classes and courses.
 
 ---
 
 ### ✏️ Student Profile Edit
-Students can edit and update their personal and academic profile details.
 ![Student Edit Profile](utils/sch11.png)
+Students can edit and update their personal and academic profile details.
 
 ---
 
 ### 📖 Student Enrolled Courses
-Displays the list of courses in which the student is enrolled.
 ![Student Enrolled Courses](utils/sch12.png)
+Displays the list of courses in which the student is currently enrolled.
 
 ---
 
 ### 🧑‍💼 Admin Dashboard
-Admin dashboard providing control over classes, courses, and students.
 ![Admin Dashboard](utils/sch13.png)
+Admin dashboard providing full control over classes, courses, and students.
 
 ---
 
 ### 💬 Contact Messages (Admin)
-Admin can view and manage messages received from the contact page.
 ![Contact Messages](utils/sch14.png)
+Admin can view and manage messages received from the contact page.
 
 ---
 
 ### 🏫 Class Management
-Admin can add, update, and manage class details.
 ![Class Details Management](utils/sch15.png)
+Admin can add, update, and manage class-related information.
 
 ---
 
 ### 👥 Class-wise Student Management
-Admin can view and manage students enrolled in a particular class.
 ![Class Student Details](utils/sch16.png)
+Admin can view and manage students enrolled in a specific class.
 
 ---
 
 ### 📘 Course Management
-Admin can add, update, and manage course details.
 ![Course Management](utils/sch17.png)
+Admin can add, update, and manage course details efficiently.
+
+---
+
+### 🎯 Class-wise Course Assignment
+![Class Course Assignment](utils/sch18.png)
+Admin can manage and assign courses to students within a particular class.
 
 ---
 
 ### 🎯 Class-wise Course Assignment
 Admin can manage courses assigned to students within a particular class.
 ![Class Course Assignment](utils/sch18.png)
-```
+
 
 
